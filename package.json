@@ -1,0 +1,27 @@
+{
+  "name": "rn-hjri-calendar",
+  "version": "1.0.0",
+  "description": "react-native package for hjri date picker & calendar, only js code",
+  "main": "./lib/rn-hjri-date-picker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafaskyer/rn-hjri-calendar.git"
+  },
+  "keywords": [
+    "react-native",
+    "datepicker",
+    "hjri",
+    "calendar",
+    "ios",
+    "android"
+  ],
+  "author": "Mustafa Elsayed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mustafaskyer/rn-hjri-calendar/issues"
+  },
+  "homepage": "https://github.com/mustafaskyer/rn-hjri-calendar#readme"
+}
