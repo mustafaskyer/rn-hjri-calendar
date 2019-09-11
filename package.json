@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/mustafaskyer/rn-hjri-calendar/issues"
   },
-  "homepage": "https://github.com/mustafaskyer/rn-hjri-calendar#readme"
+  "homepage": "https://github.com/mustafaskyer/rn-hjri-calendar#readme",
+  "dependencies": {
+    "immer": "^3.2.1",
+    "lodash": "^4.17.15",
+    "moment-hijri": "^2.1.2",
+    "use-immer": "^0.3.3"
+  }
 }
