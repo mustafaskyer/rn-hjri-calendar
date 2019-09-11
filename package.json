@@ -1,6 +1,6 @@
 {
   "name": "rn-hjri-calendar",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "react-native component for hjri date picker & calendar, only js code",
   "main": "./lib/rn-hjri-date-picker",
   "scripts": {
