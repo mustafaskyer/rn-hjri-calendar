@@ -1,7 +1,7 @@
 {
   "name": "rn-hjri-calendar",
   "version": "1.0.0",
-  "description": "react-native package for hjri date picker & calendar, only js code",
+  "description": "react-native component for hjri date picker & calendar, only js code",
   "main": "./lib/rn-hjri-date-picker",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
